@@ -1,0 +1,92 @@
+{
+  "repository": "zotero-articles",
+  "updated_at": "2026-03-30T11:44:01.008Z",
+  "file_count": 12,
+  "total_size": 91792759,
+  "files": [
+    {
+      "filename": "andersennodateedgecomputing.pdf",
+      "citation_key": "andersennodateedgecomputing",
+      "path": "/andersennodateedgecomputing.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/andersennodateedgecomputing.pdf",
+      "size": 2344677
+    },
+    {
+      "filename": "eliassennodateedgecomputing.pdf",
+      "citation_key": "eliassennodateedgecomputing",
+      "path": "/eliassennodateedgecomputing.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/eliassennodateedgecomputing.pdf",
+      "size": 4269065
+    },
+    {
+      "filename": "foglinodateacoalition.pdf",
+      "citation_key": "foglinodateacoalition",
+      "path": "/foglinodateacoalition.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/foglinodateacoalition.pdf",
+      "size": 1097616
+    },
+    {
+      "filename": "keefernodateenhancingkubernetes.pdf",
+      "citation_key": "keefernodateenhancingkubernetes",
+      "path": "/keefernodateenhancingkubernetes.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/keefernodateenhancingkubernetes.pdf",
+      "size": 5359999
+    },
+    {
+      "filename": "khan082019edgecomputing.pdf",
+      "citation_key": "khan082019edgecomputing",
+      "path": "/khan082019edgecomputing.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/khan082019edgecomputing.pdf",
+      "size": 1421062
+    },
+    {
+      "filename": "langleitenodatemilitaryapplications.pdf",
+      "citation_key": "langleitenodatemilitaryapplications",
+      "path": "/langleitenodatemilitaryapplications.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/langleitenodatemilitaryapplications.pdf",
+      "size": 60277671
+    },
+    {
+      "filename": "omangnodatekubernetesin.pdf",
+      "citation_key": "omangnodatekubernetesin",
+      "path": "/omangnodatekubernetesin.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/omangnodatekubernetesin.pdf",
+      "size": 3080965
+    },
+    {
+      "filename": "omangnodatepassivebandwidth.pdf",
+      "citation_key": "omangnodatepassivebandwidth",
+      "path": "/omangnodatepassivebandwidth.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/omangnodatepassivebandwidth.pdf",
+      "size": 374439
+    },
+    {
+      "filename": "tanenbaum2015modernoperating.pdf",
+      "citation_key": "tanenbaum2015modernoperating",
+      "path": "/tanenbaum2015modernoperating.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/tanenbaum2015modernoperating.pdf",
+      "size": 6556637
+    },
+    {
+      "filename": "vao2023cloudnativeworkload.pdf",
+      "citation_key": "vao2023cloudnativeworkload",
+      "path": "/vao2023cloudnativeworkload.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/vao2023cloudnativeworkload.pdf",
+      "size": 2955233
+    },
+    {
+      "filename": "vatnenodateedgecomputing.pdf",
+      "citation_key": "vatnenodateedgecomputing",
+      "path": "/vatnenodateedgecomputing.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/vatnenodateedgecomputing.pdf",
+      "size": 1100162
+    },
+    {
+      "filename": "vaño2023cloud-nativeworkload.pdf",
+      "citation_key": "vaño2023cloud-nativeworkload",
+      "path": "/vaño2023cloud-nativeworkload.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/vaño2023cloud-nativeworkload.pdf",
+      "size": 2955233
+    }
+  ]
+}
