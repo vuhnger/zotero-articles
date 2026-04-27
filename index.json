@@ -1,8 +1,8 @@
 {
   "repository": "zotero-articles",
-  "updated_at": "2026-04-27T19:07:50.636Z",
-  "file_count": 12,
-  "total_size": 91792759,
+  "updated_at": "2026-04-27T20:55:09.343Z",
+  "file_count": 14,
+  "total_size": 93734453,
   "files": [
     {
       "filename": "andersennodateedgecomputing.pdf",
@@ -24,6 +24,13 @@
       "path": "/foglinodateacoalition.pdf",
       "url": "https://github.com/vuhnger/zotero-articles/raw/main/foglinodateacoalition.pdf",
       "size": 1097616
+    },
+    {
+      "filename": "johnsonnodateasimple.pdf",
+      "citation_key": "johnsonnodateasimple",
+      "path": "/johnsonnodateasimple.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/johnsonnodateasimple.pdf",
+      "size": 377308
     },
     {
       "filename": "keefernodateenhancingkubernetes.pdf",
@@ -66,6 +73,13 @@
       "path": "/tanenbaum2015modernoperating.pdf",
       "url": "https://github.com/vuhnger/zotero-articles/raw/main/tanenbaum2015modernoperating.pdf",
       "size": 6556637
+    },
+    {
+      "filename": "turlykozhayeva2024experimentalperformance.pdf",
+      "citation_key": "turlykozhayeva2024experimentalperformance",
+      "path": "/turlykozhayeva2024experimentalperformance.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/turlykozhayeva2024experimentalperformance.pdf",
+      "size": 1564386
     },
     {
       "filename": "vao2023cloudnativeworkload.pdf",
