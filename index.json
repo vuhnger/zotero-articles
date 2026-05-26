@@ -1,8 +1,8 @@
 {
   "repository": "zotero-articles",
-  "updated_at": "2026-05-26T17:53:19.839Z",
-  "file_count": 14,
-  "total_size": 93734453,
+  "updated_at": "2026-05-26T20:03:30.626Z",
+  "file_count": 15,
+  "total_size": 94832069,
   "files": [
     {
       "filename": "andersennodateedgecomputing.pdf",
@@ -17,6 +17,13 @@
       "path": "/eliassennodateedgecomputing.pdf",
       "url": "https://github.com/vuhnger/zotero-articles/raw/main/eliassennodateedgecomputing.pdf",
       "size": 4269065
+    },
+    {
+      "filename": "fogli2023notitle.pdf",
+      "citation_key": "fogli2023notitle",
+      "path": "/fogli2023notitle.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/fogli2023notitle.pdf",
+      "size": 1097616
     },
     {
       "filename": "foglinodateacoalition.pdf",
