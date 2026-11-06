@@ -1,9 +1,16 @@
 {
   "repository": "zotero-articles",
-  "updated_at": "2026-11-06T04:32:12.180Z",
-  "file_count": 18,
-  "total_size": 97894076,
+  "updated_at": "2026-11-06T12:37:49.318Z",
+  "file_count": 21,
+  "total_size": 99731316,
   "files": [
+    {
+      "filename": "alquraannodateananalysis.pdf",
+      "citation_key": "alquraannodateananalysis",
+      "path": "/alquraannodateananalysis.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/alquraannodateananalysis.pdf",
+      "size": 661469
+    },
     {
       "filename": "andersen2025edgecomputing.pdf",
       "citation_key": "andersen2025edgecomputing",
@@ -82,6 +89,13 @@
       "size": 60277671
     },
     {
+      "filename": "mao2024napnetwork.pdf",
+      "citation_key": "mao2024napnetwork",
+      "path": "/mao2024napnetwork.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/mao2024napnetwork.pdf",
+      "size": 751223
+    },
+    {
       "filename": "omangnodatekubernetesin.pdf",
       "citation_key": "omangnodatekubernetesin",
       "path": "/omangnodatekubernetesin.pdf",
@@ -122,6 +136,13 @@
       "path": "/vatnenodateedgecomputing.pdf",
       "url": "https://github.com/vuhnger/zotero-articles/raw/main/vatnenodateedgecomputing.pdf",
       "size": 1100162
+    },
+    {
+      "filename": "vayghan2019kubernetesas.pdf",
+      "citation_key": "vayghan2019kubernetesas",
+      "path": "/vayghan2019kubernetesas.pdf",
+      "url": "https://github.com/vuhnger/zotero-articles/raw/main/vayghan2019kubernetesas.pdf",
+      "size": 424548
     },
     {
       "filename": "vaño2023cloud-nativeworkload.pdf",
